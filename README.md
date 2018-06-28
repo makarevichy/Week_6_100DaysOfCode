@@ -1,12 +1,20 @@
 # Week 6
 
+### Days 40: June 28, Thursday.
+
+**Today's Progress**: Build R packages.
+
+**Thoughts** 
+- Resumed to delve into the structure of R packages.
+- Dealt with package components: Data (data/), Compiled code (src/), Installed files (inst/).
+
 ### Days 39: June 27, Wednesday.
 
 **Today's Progress**: Build R packages.
 
 **Thoughts** 
 - Resumed to delve into the structure of R packages.
-- Dealt with package components: Vignettes (vignettes/), Testing (tests/), Namespaces (NAMESPACE)
+- Dealt with package components: Vignettes (vignettes/), Testing (tests/), Namespaces (NAMESPACE).
 
 ### Days 38: June 26, Tuesday.
 
