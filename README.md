@@ -1,6 +1,13 @@
 # Week 6
 
-### Days 40: June 28, Thursday.
+### Days 41-42: June 29-30, Friday - Saturday.
+
+**Today's Progress**: Git and GitHub.
+
+**Thoughts** 
+- These two days I devoted to a more in-depth study of Git + GitHub.
+
+### Day 40: June 28, Thursday.
 
 **Today's Progress**: Build R packages.
 
@@ -8,7 +15,7 @@
 - Resumed to delve into the structure of R packages.
 - Dealt with package components: Data (data/), Compiled code (src/), Installed files (inst/).
 
-### Days 39: June 27, Wednesday.
+### Day 39: June 27, Wednesday.
 
 **Today's Progress**: Build R packages.
 
@@ -16,7 +23,7 @@
 - Resumed to delve into the structure of R packages.
 - Dealt with package components: Vignettes (vignettes/), Testing (tests/), Namespaces (NAMESPACE).
 
-### Days 38: June 26, Tuesday.
+### Day 38: June 26, Tuesday.
 
 **Today's Progress**: Time-series, forecast package.
 
@@ -26,14 +33,14 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_6_100DaysOfCode/blob/master/weekday/Day_38.R)
 
-### Days 37: June 25, Monday.
+### Day 37: June 25, Monday.
 
 **Today's Progress**: ConvNN.
 
 **Thoughts** 
 - More details plunged into the architecture of ConvNN.
 
-### Days 36: June 24, Sunday.
+### Day 36: June 24, Sunday.
 
 **Today's Progress**: VGG16, imagenet.
 
